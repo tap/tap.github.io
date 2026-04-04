@@ -44,6 +44,9 @@ How the threading model in Max works, with practical techniques for optimizing y
 
 - [An Interview With Tim Place](https://cycling74.com/articles/an-interview-with-tim-place) — Discussion of the Hipno plug-in collection, the Hipnoscope, and the design philosophy behind it (January 2007).
 
----
+## Blog Archives
 
-*I'm in the process of importing archived posts from Electrotap and 74 Objects. More to come.*
+Posts from my previous sites have been imported here with their original dates:
+
+- **[Electrotap posts](/categories/#electrotap)** (2002--2012) — product announcements, tutorials, interviews, conference reports, and the story of building a company around music technology.
+- **[74 Objects posts](/categories/#74objects)** (2009--2014) — technical deep dives on Max externals, custom data types, DSP architecture, Jamoma, and software design philosophy.
