@@ -4,24 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Timothy Place engages with this ephemeral world through creative processes that captivate the body, mind, soul, and spirit.
-For more than 10 years he has helped shape the development of products by Cycling '74 including Max through design, coding, and process.
-In addition to founding the open-source Jamoma project and the private company Electrotap (makers of the legendary Teabox sensor interface, Hipno Plug-ins and TapTools),
-Tim has lectured, taught, and performed throughout the world.
+Timothy Place is a Technical Lead Software Engineer for Audio & DSP at Garmin, where he leads development of next-generation automotive audio systems in collaboration with BMW.
 
-When not trapped inside his mind he can be found climbing rock and ice in the mountains, building furniture with hand tools, whitewater-kayaking, enjoying time with his family, and riding thousands of miles on his bicycle every year.
+Before Garmin, Tim spent 15 years at Cycling '74 and Ableton, shaping the development of [Max](https://cycling74.com/products/max) through design, coding, and process. He founded [Electrotap](https://github.com/electrotap) — makers of the Teabox sensor interface, Hipno visual plug-ins, and TapTools — and received UMKC's Entrepreneur of the Year award for it while completing his doctorate in electronic music.
 
-# Through 74 Objects he takes on select consulting opportunities and continues to create interesting things. Timothy is currently designing software for Cycling '74, running Electrotap, creating interactive music and art, leading the open-source Jamoma project, building furniture with hand tools, enjoying time with his family, and riding thousands of miles on his bicycle.
+Tim also founded the open-source [Jamoma](https://jamoma.org) project and has lectured, taught, and performed throughout the world.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+## Education
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+- **Doctorate**, Electronic Music — University of Missouri, Kansas City
+- **Master's**, Music Composition — University of Missouri, Kansas City
+- **Studies** — The Johns Hopkins University; SUNY Potsdam
 
----
+## Outside of Work
 
-Timothy Place is currently leading development of the next generation of automotive audio systems for Garmin in collaboration with BMW. This follows 15 years of creating performance software for musicians and artists with Cycling ’74 and Ableton. For starting the company Electrotap, Tim received entrepreneur of the year award from the University of Missouri — Kansas City while working on his doctorate in electronic music. In his free time, Tim makes furniture with hand tools, enjoys technical climbing and mountaineering in remote places, and riding thousands of miles on a bicycle -- all things he loves to share with his partner, Chanda, and their 4 kids, ages 2-14.
-
+Technical climbing and mountaineering in remote places. Building furniture with hand tools. Whitewater kayaking. Riding thousands of miles on a bicycle. Sharing all of it with his partner Chanda and their four kids.
